@@ -1,0 +1,901 @@
+Company,Job_Title,Location,Seniority_level,Python,SQL,R,Excel,Tableau,Power_BI,Machine_Learning
+ISAAC Instruments,Data Scientist,"St-Bruno-de-Montarville, Quebec, Canada",Associate,True,True,False,True,False,False,True
+FPT Software,Data Scientist,Canada,Mid-Senior level,True,True,False,False,False,False,True
+Ample Insight,Data Scientist - Data Analytics and Infrastructure (remote),"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Zany Consulting Group,Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+ISAAC Instruments,Artificial intelligence (AI) Developer,"St-Bruno-de-Montarville, Quebec, Canada",Associate,True,True,False,False,False,False,True
+Outdefine,Data Scientist,Canada,Mid-Senior level,False,False,False,False,False,False,False
+Tiger Analytics,Machine Learning Engineer (Canada),"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Tiger Analytics,Machine Learning Engineer (Canada),"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+riskthinking.AI,Data Scientist - Climate/Weather,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+Sobeys,Data Scientist - EN,"Toronto, Ontario, Canada",Entry level,True,True,False,False,True,False,True
+Zortech Solutions,Python/Data Scientist-Canada,"Mississauga, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Tiger Analytics,Machine Learning Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Prenuvo,Machine Learning Engineer,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,True
+MobSquad,Machine Learning Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Air Canada,"Data Scientist, Artificial Intelligence","Dorval, Quebec, Canada",Entry level,True,True,False,True,False,False,True
+owl.co,Sr Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Prenuvo,Machine Learning Applied Scientist,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Experfy,Industrial Affairs (IA) Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,True,True,True
+Nuvoola AI,AI Scientist,"Québec, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,True
+NTENT,Machine Learning Engineer,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+Focal Systems,Data Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+Boosted.ai,Data Scientist,"Toronto, Ontario, Canada",Entry level,True,False,False,True,True,False,True
+COEX,Candidature spontanée,"Montreal, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+Brass Lion Entertainment,AI Programmer,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Deep Genomics,Data Scientist,"Toronto, Ontario, Canada",Not Applicable,True,False,True,False,False,False,True
+Focal Systems,Data Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+riskthinking.AI,Data Scientist - Climate/Weather,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+Cobblestone Energy,"JUNIOR DATA SCIENTIST - Dubai, UAE","Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Cobblestone Energy,"JUNIOR DATA SCIENTIST - Dubai, UAE","Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Robertson & Company Ltd.,Data Scientist (Level 1),"Toronto, Ontario, Canada",Entry level,True,True,True,True,False,False,True
+Cobblestone Energy,"JUNIOR DATA SCIENTIST - Dubai, UAE","Division No. 11, Saskatchewan, Canada",Entry level,True,True,False,False,False,False,False
+Cobblestone Energy,"JUNIOR DATA SCIENTIST - Dubai, UAE","Calgary, Alberta, Canada",Entry level,True,True,False,False,False,False,False
+TALTEK | TALENT in TECHNOLOGY,Deep Learning Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Experfy,Principal Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Cobblestone Energy,"DATA SCIENTIST - Dubai, UAE","Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+Astek,Bioinformatics Scientist: Methylation Data Analysis,"Mississauga, Ontario, Canada",Not Applicable,True,True,True,True,False,False,False
+Morgan Stanley,Data Scientist – NLP (Hybrid),"Montreal, Quebec, Canada",Not Applicable,True,False,False,True,False,False,True
+Randstad Canada,Data Scientist,"Vancouver, British Columbia, Canada",Entry level,True,True,False,True,False,False,True
+Shakudo,Machine Learning Engineer (Product Advocate),"Toronto, Ontario, Canada",Full-time,True,False,False,True,False,False,True
+Experfy,Industrial Affairs (IA) Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,True,True,True
+ISAAC Instruments,Artificial intelligence (AI) Developer,"St-Bruno-de-Montarville, Quebec, Canada",Associate,True,True,False,False,False,False,True
+Wysdom.AI,Senior NLP/ML Developer,Canada,Mid-Senior level,True,False,False,True,False,False,True
+Kinaxis,Associate Business Data Scientist,"Québec, Quebec, Canada",Entry level,False,True,False,True,False,False,False
+Amaris Consulting,Pharmaceutical - Data Scientist,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,True
+Kinaxis,Associate Business Data Scientist,"Halifax, Nova Scotia, Canada",Entry level,False,True,False,True,False,False,False
+Osedea,Machine Learning Developer,"Montreal, Quebec, Canada",Not Applicable,True,False,False,True,False,False,True
+ProCogia,Data Science Co-op,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,True
+AbCellera,Data Scientist - Applied Statistics,"Vancouver, British Columbia, Canada",Associate,True,False,False,False,False,False,True
+Mier Human Capital,Data Scientist,"York, Ontario, Canada",Entry level,True,True,True,True,True,True,False
+Software International,Machine Learning Engineer (remote),"Ontario, Canada",Entry level,True,False,False,False,False,False,True
+Glia,"Senior Data Scientist, AI Chatbot","Vancouver, British Columbia, Canada",Mid-Senior level,True,True,True,True,True,False,True
+Arteria AI,Senior NLP Data Scientist ,"Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,True
+Binance.US,Product Data Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+Binance.US,Product Data Scientist,"Vancouver, British Columbia, Canada",Entry level,True,True,False,True,False,False,True
+Sobeys,Data Scientist - EN,"Vancouver, British Columbia, Canada",Entry level,True,True,False,False,True,False,True
+Alberta Blue Cross,Data Scientist – Analytics,Greater Edmonton Metropolitan Area,Entry level,True,False,False,False,False,True,True
+BASF,Machine Learning Engineer (AI Solutions),"Mississauga, Ontario, Canada",Not Applicable,True,True,False,True,True,True,True
+Binance.US,Product Data Scientist,"Vancouver, British Columbia, Canada",Entry level,True,True,False,True,False,False,True
+Daisy Intelligence Corporation,Data Scientist - Operations,"Toronto, Ontario, Canada",Not Applicable,False,True,False,True,False,False,False
+Sobeys,Data Scientist - EN,"Victoria, British Columbia, Canada",Entry level,True,True,False,False,True,False,True
+Horizon Computer Solutions Inc.,Procurement Data Scientist,"Calgary, Alberta, Canada",Mid-Senior level,True,True,True,True,False,True,True
+IGT,Data Scientist I,"Moncton, New Brunswick, Canada",Not Applicable,True,True,False,True,False,False,True
+Air Canada,"Data Scientist, Artificial Intelligence","Dorval, Quebec, Canada",Entry level,True,True,False,True,False,False,True
+Canadian Tire Corporation,Data Scientist - Canadian Tire Corporation,"Toronto, Ontario, Canada",Entry level,True,True,False,True,True,False,True
+Cobblestone Energy,"DATA SCIENTIST - Dubai, UAE","Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,True
+Providence Health Care,Data Scientist,"Vancouver, British Columbia, Canada",Entry level,True,True,False,True,False,False,True
+Zortech Solutions,Python Programmer-Canada,"Mississauga, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Swift Medical,Data Science Co-op (R&D),Canada,Internship,True,False,False,True,False,False,True
+Sobeys,Data Scientist - EN,"Calgary, Alberta, Canada",Entry level,True,True,False,False,True,False,True
+Stripe,"Machine Learning Engineer, Risk",Canada,Mid-Senior level,True,False,False,False,False,False,True
+Provincial Health Services Authority,"Data Scientist, Data, Analytics, Evaluation and Reporting (DARE)","Vancouver, British Columbia, Canada",Entry level,True,True,False,True,True,False,True
+ShyftLabs,Data Scientist - Marketing Measurement & Optimization,"Toronto, Ontario, Canada",Not Applicable,True,True,False,True,True,True,True
+Prenuvo,Machine Learning Applied Scientist,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+CroytenER,Senior Machine Learning Engineer,Canada,Mid-Senior level,True,False,False,False,False,False,True
+Hopper,Senior Machine Learning Developer - Pricing Strategy  ( 100% Remote),Canada,Mid-Senior level,True,True,False,True,True,False,True
+"Huawei Technologies Canada Co., Ltd.",Engineer - Machine Learning Track,"Waterloo, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Nuvoola AI,AI Scientist,"Québec, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Cresta,Software Engineer (ML/NLP) (Toronto),"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,True
+Sobeys,Data Scientist - EN,"Stellarton, Nova Scotia, Canada",Entry level,True,True,False,False,True,False,True
+Accolite Digital,Python Machine Learning Developer,"Montreal, Quebec, Canada",Not Applicable,True,False,False,False,False,False,True
+AbCellera,Data Scientist - Molecular Design & Engineering,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,True
+GENIE AI,Machine Learning Engineer - NLP Chatbot Specialist,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+FutureFit AI,Senior Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,True
+BlueDot,"Lead, Data Scientist","Ontario, Canada",Not Applicable,False,False,False,False,False,False,True
+CAD Railway Industries Ltd.,Reliability Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Centre universitaire de santé McGill | McGill University Health Centre,Data Scientist (Research Institute),"Montreal, Quebec, Canada",Entry level,True,True,False,True,False,False,True
+AbCellera,Data Scientist - Cell Biology,"Vancouver, British Columbia, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Moneris,Machine Learning Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,True
+Deep Genomics,Machine Learning Engineer (Senior/ Staff),"Toronto, Ontario, Canada",Not Applicable,False,False,False,True,False,False,True
+Vivun,Senior Machine Learning Engineer,"Québec, Quebec, Canada",Not Applicable,True,True,False,False,False,False,True
+Amaris Consulting,Pharmaceutical - Data Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+TD,Data Scientist- EN,"Toronto, Ontario, Canada",Not Applicable,True,True,False,True,False,False,True
+Morgan Stanley,Data Scientist – Delta One Strats (Hybrid),"Montreal, Quebec, Canada",Not Applicable,True,True,False,False,False,False,False
+Provincial Health Services Authority,"Data Scientist, Data, Analytics, Evaluation and Reporting (DARE)","Vancouver, British Columbia, Canada",Entry level,True,True,False,True,True,False,True
+Baker Hughes,Data Scientist - Algorithms,"Calgary, Alberta, Canada",Entry level,True,False,False,True,False,False,True
+Peak Power Inc,Senior Python Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,False
+Valence Discovery,Research Engineer,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,True
+Binance.US,Decision Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,True,True,False,True
+Enverus,Associate Data Scientist - 23113,"Calgary, Alberta, Canada",Entry level,True,False,False,False,False,False,False
+Levio,AI Developer,"Québec, Quebec, Canada",Entry level,True,False,False,True,False,False,True
+Diverse Lynx,Data Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Vancouver, British Columbia, Canada",Entry level,True,False,False,False,False,False,False
+Zortech Solutions,AWS + Python,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+owl.co,Senior Software Engineer - ML/Ranking,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Hour Consulting,Data Science Engineer - remote,Canada,Entry level,True,True,False,False,False,False,False
+Stacktics,Data Science Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,True,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Oakville, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Specialisterne USA,Test Automation Engineer- Neurodiversity Hiring Initiative,"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+SHIFT Energy,Senior Python Developer/Architect,"Calgary, Alberta, Canada",Mid-Senior level,True,False,False,False,False,False,False
+2iSolutions Inc.,Data Analytical Specialist/Scientist - Junior,"Toronto, Ontario, Canada",Entry level,True,True,True,True,False,True,True
+AbCellera,Data Scientist - Functional Biology,"Vancouver, British Columbia, Canada",Associate,True,False,False,False,False,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Calgary, Alberta, Canada",Entry level,True,False,False,False,False,False,False
+ZestyAI,Senior Data Scientist - Computer Vision,"Halifax, Nova Scotia, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Edmonton, Alberta, Canada",Entry level,True,False,False,False,False,False,False
+FPT Software,Operations Research Scientist,Canada,Mid-Senior level,True,True,False,False,False,False,False
+ZestyAI,Senior Data Scientist - Computer Vision,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Engineer - AI/Distributed Learning,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Unbounce,Senior AI/ML Data Engineer - Data Platform Team,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,True,True,True,True
+"Integrated Resources, Inc ( IRI )",Bioinformatician (R/Python programmer),"Mississauga, Ontario, Canada",Mid-Senior level,True,False,True,False,False,False,False
+ZestyAI,Senior Data Scientist - Computer Vision,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Very,Lead Data Scientist - Canada,"Vancouver, British Columbia, Canada",Not Applicable,True,True,False,False,False,False,True
+Taseko: Gibraltar Mine,"Engineer-In-Training, Data Science","Cariboo D, British Columbia, Canada",Entry level,True,False,True,True,False,False,True
+Mila - Quebec Artificial Intelligence Institute,Scientifique de données,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Advanced Upstream Ltd.,Applications Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,True,False,False,False
+IQ Hunt Ltd.,Senior Data Scientist,"Mississauga, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+AbCellera,Research Scientist - Computational Structural Biology,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Intuitive.Cloud,MLOps Engineer,"Toronto, Ontario, Canada",Contract,True,False,False,False,False,False,True
+ZestyAI,Senior Data Scientist - Computer Vision and MLOps,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Big Fish Games,Senior Data Scientist,"Montreal, Quebec, Canada",Mid-Senior level,True,True,False,False,True,False,True
+Skylab Technologies Inc.,Senior Machine Learning / Computer Vision Research Scientist,"Vancouver, British Columbia, Canada",Full-time,True,False,False,False,False,False,True
+ZestyAI,Senior Data Scientist - Computer Vision and MLOps,"Montreal, Quebec, Canada",Mid-Senior level,False,True,False,False,False,False,True
+PRECISIONheor,Research Scientist,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+BrainStation,"Associate Educator, Data Scientist","Toronto, Ontario, Canada",Entry level,True,True,True,True,True,False,True
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+ZestyAI,Senior Data Scientist - Computer Vision,"Calgary, Alberta, Canada",Mid-Senior level,False,True,False,False,False,False,True
+CenterLine (Windsor) Limited,Computer Programmer/Analyst (Machine Learning Data Analyst),"LaSalle, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+SHIFT Energy,Senior Python Developer/Architect,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Adecco,Now Hiring Statisticians!,"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Adecco,Now Hiring Statisticians!,"Cantley, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Adecco,Now Hiring Statisticians!,"Kemptville, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+WellnessLiving,React Developer,"Richmond Hill, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+IQ Hunt Ltd.,Detection Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Vooban,Développeur Python,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Specialisterne USA,Test Automation Engineer- Neurodiversity Hiring Initiative,"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+IQ Hunt Ltd.,Senior Data Scientist,"Mississauga, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+Diaryz,Junior App Developer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+ZestyAI,Senior Data Scientist - Computer Vision,"Halifax, Nova Scotia, Canada",Mid-Senior level,False,True,False,False,False,False,True
+ECAD Labs Inc,Software Developer in Test,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Grammarly,Senior Data Scientist,"Vancouver, British Columbia, Canada",Mid-Senior level,True,True,False,True,False,False,False
+Epsilon Solutions Ltd.,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+TechInsights,Software Developer,"Ottawa, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Emonics LLC,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+FutureFit AI,Senior Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,True
+Peak Power Inc,Senior Python Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,False
+Chubb,Senior Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,True
+nventive,Candidature spontanée,"Montreal, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+Vooban,Développeur Python,"Québec, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+STACK IT Recruitment Inc.,Senior AI and Machine Learning Researcher,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,True
+49 Solutions,Developer,"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Brass Lion Entertainment,Animation Programmer,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Tri-Mach,Applications Engineer,"Elmira, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Diverse Lynx,Python Developer.,"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+Ignite Technical Resources,Senior Data Scientist [BHJOB13022_12700],"Richmond, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Norsat International,Application Engineer,"Richmond, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Braintrust,Computer Vision Engineer - Freelance [Remote],"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Muse® by Interaxon Inc.,Biosignal Research Scientist,"Toronto, Ontario, Canada",Not Applicable,True,True,False,False,False,False,True
+Vooban,Développeur Python,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+POINT Biopharma,"Research Scientist, Preclinical, Toronto","Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Braintrust,Computer Vision Engineer - Freelance [Remote],"Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Talespin ✈️,QA Automation Engineer,Canada,Mid-Senior level,True,False,False,True,False,False,False
+AssemblyAI,"Software Engineer, Python/Go","Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Epsilon Solutions Ltd.,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Braintrust,Computer Vision Engineer - Freelance [Remote],"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Braintrust,Computer Vision Engineer - Freelance [Remote],"Edmonton, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,False
+TD,Data Scientist II,"Toronto, Ontario, Canada",Not Applicable,True,True,False,True,True,False,True
+Centre for Neuroengineering Solutions,Machine Learning Engineers/specialists,"Lethbridge, Alberta, Canada",Full-time,True,True,False,False,False,False,True
+Hunter Bond,Software Engineer (Python and/or React) Up to C$180k + Huge Bonus Montreal,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Capgemini,Python Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Baker Hughes,Senior Data Scientist,"Calgary, Alberta, Canada",Mid-Senior level,True,True,False,False,False,False,True
+Seismic,Software Engineer AI/ ML- Co-Op (PEY/ Masters),"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Tri-Mach,Applications Engineer,"Elmira, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+DarkVision Technologies Inc.,Research Scientist - Ultrasound,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+DarkVision Technologies Inc.,Research Scientist,"North Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Grammarly,"Software Engineer, Machine Learning (On-Device)","Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,True
+BCJobs,Data Scientist - BC Public Service (VIATEC),"Victoria, British Columbia, Canada",Entry level,False,False,False,False,False,False,True
+ProCogia,Data Science Consultant,"Vancouver, British Columbia, Canada",Mid-Senior level,True,True,True,True,True,True,False
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Oakville, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Fingerprint for Success (F4S),Expression of Interest: Artificial Intelligence Developer,Canada,Entry level,False,False,False,True,False,False,False
+J&M Group,Python Developer,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+AssemblyAI,"Software Engineer, Python/Go","Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Tallysman Wireless Inc.,Test Development Engineer,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+RevSolz Corp.,Completions / Frac Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,True,False,False,False
+KPMG Canada,Data Scientist - Consultant/ Senior Consultant - Lighthouse,"Toronto, Ontario, Canada",Not Applicable,True,True,True,True,False,False,True
+Humber River Hospital,"Research Associate, Data Science & Statistics","Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,False
+SLB,Process Simulation Software Developer,"Calgary, Alberta, Canada",Not Applicable,True,False,False,False,False,False,True
+Baker Hughes,Senior Data Scientist,"Calgary, Alberta, Canada",Mid-Senior level,True,True,False,False,False,False,True
+ProCogia,Data Science Co-op,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,True
+Investinu Group,Algorithm Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,True
+Assembly Global,Senior Data Scientist,"Toronto, Ontario, Canada",Not Applicable,True,True,False,False,True,False,True
+Thales,Scientifique en Intelligence Artificielle/ AI Scientist,"Greater Montreal, Quebec, Canada",Not Applicable,True,False,False,False,False,False,False
+Pfizer,"Manager, Clinical Data Scientist, Clinical Data Sciences / Gestionnaire, Scientifique responsable des données cliniques, Gestion des données cliniques","Kirkland, Quebec, Canada",Associate,False,False,False,True,False,False,False
+BLANKSLATE Partners,Front-End Developer - Shop This City,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Noibu,Senior Data Scientist,"Ottawa, Ontario, Canada",Not Applicable,True,True,False,True,False,False,True
+Altus Group,"Data Scientist, Inside Sales Analytics (Remote)","Saskatoon, Saskatchewan, Canada",Entry level,False,False,False,False,False,False,False
+Braintrust,Python Engineer - Computer Vision / Neural Network - Freelance [Remote],"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+AbCellera,Data Scientist - Functional Biology,"Vancouver, British Columbia, Canada",Associate,True,False,False,False,False,False,True
+Skylab Technologies Inc.,Senior Machine Learning / Computer Vision Research Scientist,"Vancouver, British Columbia, Canada",Full-time,True,False,False,False,False,False,True
+Multi-Health Systems Inc. (MHS),Research Scientist,Canada,Associate,False,False,False,True,False,False,False
+"Synergy Computer Solutions, Inc.",Development Engineer - Intermediate,"Windsor, Ontario, Canada",Contract,False,False,False,True,False,False,False
+WORKLAND,Junior Frontend Developer - Workland,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Emonics LLC,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+TalentLab,Machine Learning ASIC IP Verification Engineer (All Levels),"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+Hire Digital,Software Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Hire Digital,Django Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Researcher - Applied ML/NLP,"Montreal, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+"PerkinElmer, Inc.",Machine Learning Engineering Co-op,"Hastings Highlands, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+Acuitas Therapeutics,Research Associate / Scientist – Synthetic Chemistry,"Vancouver, British Columbia, Canada",Full-time,False,False,False,True,False,False,False
+Hire Digital,Django Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Hire Digital,Django Developer,"Calgary, Alberta, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Diverse Lynx,Automation Data validation Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Diverse Lynx,Automation Data Validation Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Rivian,"Staff Data Scientist, Vehicle Controls","Vancouver, British Columbia, Canada",Mid-Senior level,True,True,False,False,True,False,True
+J&M Group,Python Developer,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,True
+Zortech Solutions,Python Developer with Spike,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Machine Learning Scientist - NLP,"Vancouver, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,True
+AstraZeneca,Associate Director Data Scientist,"Mississauga, Ontario, Canada",Associate,True,False,False,False,False,False,True
+Evertz,Software Testing Engineer,"Burlington, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Aspen Technology,Principal Data Scientist,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Zortech Solutions,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+CAAT Pension Plan,Automation Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Cobblestone Energy,"SENIOR DATA SCIENTIST - Dubai, UAE","Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,True,False,False
+EarthDaily Analytics,Software Engineer (Backend),"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Osperity,Python Developer (Calgary AB Based),"Calgary, Alberta, Canada",Entry level,True,False,False,False,False,False,False
+IPVISIBILITY,Python ETL Developer/Data Engineer - Remote,"Ottawa, Ontario, Canada",Not Applicable,True,False,False,False,False,False,False
+Diverse Lynx,SDET,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+InVision Staffing Services Inc.,PLC Programmer,"Cambridge, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+TD,Machine Learning Engineer (Layer 6)- EN,"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,True
+Cobblestone Energy,"SENIOR DATA SCIENTIST - Dubai, UAE","Montreal, Quebec, Canada",Mid-Senior level,True,False,False,True,True,False,False
+Boosted.ai,Quantitative Engineer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+J&M Group,Python Developer,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+BrainStation,"Educator, Data Scientist","Toronto, Ontario, Canada",Entry level,True,True,True,True,True,False,True
+CIeNET Technologies,Software Engineer (C/C++) - ADAS,"Markham, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,True
+Sangoma,Frontend Engineer (Junior Frontend Developer),"Markham, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Epsilon Solutions Ltd.,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Altus Group,"Data Scientist, Inside Sales Analytics (Remote)","Saskatoon, Saskatchewan, Canada",Entry level,False,False,False,False,False,False,False
+ADGA Group Consultants Inc.,Junior Software Developer,"Ottawa, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Acumatica,QA Automation Engineer -Platform,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Stream Systems Ltd.,Junior Software Developer in Test (Remote),"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Hire Digital,Software Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Prospect (tryprospect.com),JavaScript (React) Software Engineer,"Waterloo, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Basetwo AI,Integration Engineer,"Toronto, Ontario, Canada",Associate,True,True,False,False,False,False,False
+owl.co,Senior Software Engineer - Product,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Norsat International,Software Engineer,"Richmond, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Canadian Nuclear Laboratories,Computational Research Scientist,"Chalk River, Ontario, Canada",Not Applicable,True,False,False,True,False,False,False
+Truvity,Remote Backend Engineer (Go),"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Everbridge,Staff Machine Learning Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+TalentLab,Validation Engineer (Python) - Contract,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Hire Digital,Software Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Insight Global,Python Automation Developer (Embedded),"Oakville, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Provincial Health Services Authority,Junior Software Developer,"Vancouver, British Columbia, Canada",Entry level,True,True,True,True,False,False,False
+Everbridge,Staff Machine Learning Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Insight Global,Python Automation Developer (Embedded),"Oakville, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Provincial Health Services Authority,Junior Software Developer,"Vancouver, British Columbia, Canada",Entry level,True,True,True,True,False,False,False
+LightBox,Software Engineer,"Ontario, Canada",Associate,False,True,False,False,False,False,True
+ZestyAI,Senior Data Scientist - Computer Vision,"Montreal, Quebec, Canada",Mid-Senior level,False,True,False,False,False,False,True
+KPMG Canada,Data Scientist - Consultant/ Senior Consultant - Lighthouse,"Toronto, Ontario, Canada",Not Applicable,True,True,True,True,False,False,True
+Stripe,"Software Engineer, Machine Learning Infrastructure",Canada,Mid-Senior level,True,False,False,False,False,False,True
+McGill University,Research Software Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,True,False,False,False
+CIeNET Technologies,Software Quality Assurance and Automation Test Engineer - Automotive Infotainment,"Markham, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Zortech Solutions,Senior Developer/Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Insight Global,Python Automation Developer (Embedded),"Waterloo, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Boosted.ai,Software Engineer,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+Gradiant AI,Scientifique de Données / Data Scientist,"Montreal, Quebec, Canada",Full-time,True,True,False,False,True,False,False
+Insilico Medicine,Cheminformatician/Python Backend Developer ,"Montreal, Quebec, Canada",Mid-Senior level,True,True,False,False,False,False,True
+Fortinet,Python Developer,"Burnaby, British Columbia, Canada",Entry level,True,False,False,True,False,False,False
+Shinydocs,Test Automation Developer,"Waterloo, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+PRECISIONheor,"Research Scientist, Economic Modeling","Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+RevSolz Corp.,Completions / Frac Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,QA Automation Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+"LanceSoft, Inc.",Python Developer,"Mississauga, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Acumatica,QA Automation Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,True,False,True,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Researcher - AI for Networking,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Epsilon Solutions Ltd.,ETL Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Zortech Solutions,GCP Data Engineer/ Scientist,"Toronto, Ontario, Canada",Entry level,True,True,False,False,True,False,False
+eTeam,Python Developer,"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Experfy,Software Engineer/Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Adecco,Intermediate Scientist - Research and Development,"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+ShyftLabs,ML-Ops Engineer,"Toronto, Ontario, Canada",Not Applicable,True,True,False,False,False,False,True
+Averna,Hardware Automation Software Designer Python (English version),"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Microchip Technology Inc.,Engineer I - Applications,"Burnaby, British Columbia, Canada",Entry level,False,False,False,True,False,False,True
+Microchip Technology Inc.,Engineer I - Applications,"Burnaby, British Columbia, Canada",Entry level,False,False,False,True,False,False,True
+PORTA - Tradizione Italiana,Software Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,QA Python Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Wipro,F5 Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,False
+1Password,Senior Data Scientist,Canada,Mid-Senior level,True,True,False,False,True,False,False
+"Huawei Technologies Canada Co., Ltd.",Researcher - Machine Learning,"Markham, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Kardium Inc.,Biomedical Algorithms Engineer,"Burnaby, British Columbia, Canada",Entry level,True,False,False,False,False,False,True
+Stripe,"Software Engineer - Data Science Engineering, Core Data",Canada,Mid-Senior level,True,False,False,False,False,False,True
+Logistik Unicorp Inc.,Développeur logiciel en science des données,"St-Jean-Sur-Richelieu, Quebec, Canada",Entry level,True,False,False,False,True,False,False
+OTI Lumionics,Junior Software Developer,"Mississauga, Ontario, Canada",Not Applicable,True,True,False,False,False,False,True
+Zortech Solutions,React Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Chemical Computing Group,Scientific Software Developer,"Montreal, Quebec, Canada",Full-time,False,False,False,False,False,False,False
+Diverse Lynx,Data Engineer fully remote,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Zortech Solutions,F5 Engineer-US/Canada,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Workday,Principal Machine Learning Engineer,"Greater Toronto Area, Canada",Not Applicable,True,True,False,False,False,False,True
+Canadian Nuclear Laboratories,Research Scientist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+North Technology People,QA Engineer,"Kitchener, Ontario, Canada",Associate,True,False,False,False,False,False,False
+AddSource,Lead Django Engineer,Canada,Mid-Senior level,True,True,False,False,False,False,False
+FortNine,Quality Assurance Developer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Gradiant AI,Scientifique de Données / Data Scientist,"Montreal, Quebec, Canada",Full-time,True,True,False,False,True,False,False
+BrainStation,"Educator, Data Scientist","Toronto, Ontario, Canada",Entry level,True,True,True,True,True,False,True
+Intero Integrity,Software Engineer DataTel,"Toronto, Ontario, Canada",Associate,True,False,False,False,False,False,False
+Zortech Solutions,UI Developer (ReactJS),"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+SSI SCHÄFER,Software Developer,"Brampton, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Randstad Canada,P2 - Python Developer,"Brampton, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Zortech Solutions,Velocity Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+SHIFT Energy,Senior Python Developer/Architect,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Konrad Group,Software Developer (Entry Level),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+SHIFT Energy,Senior Python Developer/Architect,"Saint John, New Brunswick, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Recruiting from Scratch,"Data Scientist, Crypto Investment Firm",Greater Vancouver Metropolitan Area,Entry level,True,True,False,True,False,False,False
+Supermojo,React developer | FinTech,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,True,False,False,False
+TechInsights,AWS DevSecOps Engineer,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+BrainStation,"Educator, Data Scientist","Vancouver, British Columbia, Canada",Entry level,True,True,True,True,True,False,True
+ADGA Group Consultants Inc.,Junior Software Developer,"Ottawa, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Capgemini,Python developer (contract),"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+SHIFT Energy,Senior Python Developer/Architect,"Halifax, Nova Scotia, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Baycrest Health Sciences,Programmer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Evertz,Applications Engineer,"Burlington, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+1Password,Senior Data Scientist,Canada,Mid-Senior level,True,True,False,False,True,False,False
+Thunkable,Full Stack Engineer (React/Node.js),"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Zortech Solutions,SDET/AQA Engineer,"Calgary, Alberta, Canada",Entry level,True,False,False,True,False,False,False
+ARC Business Solutions Inc.,Front End Developer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Diverse Lynx,SDET,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+PORTA - Tradizione Italiana,Software Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,Python Developer,"Brampton, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Evertz,Software Engineer,"Burlington, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Colony Networks,"Backend Engineer (Intermediate-Canada Only, Hybrid or Remote)","Vancouver, British Columbia, Canada",Entry level,True,True,False,True,False,False,True
+Stripe,"Software Engineer - Data Science Engineering, Core Data","Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Aspect Biosystems,"Research Scientist, Biomaterials","Vancouver, British Columbia, Canada",Not Applicable,False,False,False,True,False,False,False
+Zobility,Development Engineer,"Windsor, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+AbCellera,Research Scientist - Functional Biology,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+Fusemachines,Natural Language Processing Engineer (PhD),"Greater Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Lockheed Martin,Software Engineer,"King, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Linkus Group,Software Developer in Test,"Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Prodigy Labs,ISAM Developer,"Toronto, Ontario, Canada",Associate,False,False,False,True,False,False,False
+Actalent,Python Developer,"Newmarket, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Experfy,Software Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+QATOS, Software Engineer,"Calgary, Alberta, Canada",Entry level,False,False,False,False,False,False,False
+Averna,Développeur Python (Test),"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Challenger Motor Freight Inc,Automation & Integrations Developer,"Cambridge, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Fingerprint for Success (F4S),Expression of Interest: Software Engineer,Canada,Entry level,False,False,False,True,False,False,False
+Pala (Boyd) Interactive,Data Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Evertz,"UI Software Developer (Entry, Intermediate & Sr.)","Burlington, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Specialisterne Danmark,Test Automation Engineer- Neurodiversity Hiring Initiative,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Supermojo,React developer | FinTech,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,True,False,False,False
+"LanceSoft, Inc.",Python Developer,"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+Air Canada,Chercheur Scientifique des données – Recherche opérationnelle et optimisation,"Dorval, Quebec, Canada",Mid-Senior level,True,True,False,True,False,False,False
+CenterLine (Windsor) Limited,Computer Programmer/Analyst (IoT Developer),"LaSalle, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,True
+General Dynamics Mission Systems,Junior Software Developer,"Ottawa, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Randstad Canada,Software Developer RPA,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Affinity Management Group,Senior Research And Development Engineer,"Greater Toronto Area, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Synthesis Health,Senior MLOps Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Untether AI,AI SDK Software Engineer,"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,False
+BEIT,Lead Research Scientist,"Toronto, Ontario, Canada",Full-time,False,False,False,False,False,False,False
+Weir Minerals,Software Engineer,"Halifax, Nova Scotia, Canada",Not Applicable,True,False,False,True,False,False,False
+SoCode Recruitment,Mid-Level Django Engineer,"Cambridge, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Evertz,Embedded Software Engineer (Junior/Intermediate/Senior),"Burlington, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+BCJobs,Test Engineer (Equest),"Richmond, British Columbia, Canada",Entry level,True,False,False,False,False,False,False
+"Synergy Computer Solutions, Inc.",Development Engineer - Intermediate,"Windsor, Ontario, Canada",Contract,False,False,False,True,False,False,False
+"LanceSoft, Inc.",Python Developer,"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+BrainStation,"Educator, Data Scientist","Vancouver, British Columbia, Canada",Entry level,True,True,True,True,True,False,True
+Onc.AI,Senior Research Scientist,"Waterloo, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Canadian Nuclear Laboratories,Research Scientist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Trolley,QA Automation Engineer,Greater Montreal Metropolitan Area,Not Applicable,False,True,False,True,False,False,False
+Ubisoft Quebec City,Programmer (Tools Team),"Québec, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Randstad Canada,Senior QA Engineer - Data/PowerBI,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,True,False
+Behavox,Senior NLP Research Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+GeoComply,Principal Data Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Diverse Lynx,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Trolley,QA Automation Engineer,"Montreal, Quebec, Canada",Not Applicable,False,True,False,True,False,False,False
+CMiC,Software Engineer - API,"Toronto, Ontario, Canada",Associate,False,True,False,False,False,False,False
+Intelligent City,"Software Developer, Robotics Automation","Vancouver, British Columbia, Canada",Not Applicable,True,False,False,False,False,False,False
+Advanced Knowledge Tech LLC,Test Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+"Reddit, Inc.","Staff Software Engineer, Machine Learning (Advertiser Optimization)","British Columbia, Canada",Not Applicable,True,True,False,False,False,False,True
+SSI SCHÄFER,Software Developer,"Brampton, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Hunter Bond,"DevOps Engineer - Elite FinTech - $90,000-$130,000 CAD","Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Canonical,Software Engineer - Python and K8s,"Ottawa, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+TD,Data Scientist II- EN,"Toronto, Ontario, Canada",Not Applicable,True,True,False,True,True,False,True
+DoubleJump Games,Unity Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+NetEase Games,Senior AI Programmer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Eigen Development Ltd.,"Jr. Software Developer - Dartmouth, NS","Dartmouth, Nova Scotia, Canada",Entry level,False,True,False,True,False,False,False
+Aspen Technology,Sr Data Scientist,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Rangam,Pharma AWS Cloud Data Engineer,"Mississauga, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Wipro,F5 Engineer,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Zortech Solutions,"Full stack Developer (React JS, Redux)-Canada","Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Genetec,Software Developer / Développeur logiciel - Computer Vision,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,True
+Experfy,Full-stack developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+The University of British Columbia,Front-end Software Developer,Greater Vancouver Metropolitan Area,Entry level,False,False,False,False,False,False,False
+Rakuten Kobo Inc.,Full Stack Developer (1 year contract),"Toronto, Ontario, Canada",Associate,False,True,False,False,False,False,False
+Diverse Lynx,React Js Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Prospect (tryprospect.com),JavaScript (React) Software Engineer,"Waterloo, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Hotspex Media,"Manager, Artificial Intelligence","Toronto, Ontario, Canada",Mid-Senior level,True,True,True,True,False,False,True
+Busbud,Software Developer - Platform,"Montreal, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Levio,"Développeur FullStack Java, Python et C++","Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,True
+Evertz,Software Testing Engineer,"Burlington, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Basetwo AI,Integration Engineer,"Toronto, Ontario, Canada",Associate,True,True,False,False,False,False,False
+Behavox,Senior NLP Research Engineer,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+J&M Group,DEVELOPER,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Epsilon Solutions Ltd.,"Big Data testing with Python, Hadoop, HDFS, python","Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Trudell Medical International (TMI),Software Developer,"London, Ontario, Canada",Associate,True,False,False,False,False,False,False
+Norsat International,Systems Engineer,"Richmond, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Influitive,Software Engineer (Front End),"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Konrad Group,Software Developer (Entry Level),"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Diverse Lynx,Python Developer,"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+"Tilray Brands, Inc.",Intern - Data Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Evertz,Software Developer,"Burlington, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+boostsecurity.io,Security Research Engineer,"Montreal, Quebec, Canada",Associate,True,False,False,False,False,False,False
+Applicantz,Software Development Engineer in Test,Canada,Associate,True,False,False,True,False,False,False
+Expand Reach Inc.,Application Engineer,"Richmond Hill, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Zortech Solutions,SDET (Selenium/ Java/Python),"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Diverse Lynx,ReactJS Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+AddSource,Fullstack Engineer,Canada,Entry level,False,True,False,False,False,False,False
+Diaryz,Junior App Developer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Eidos-Montréal,AI Programmer,"Montréal-Ouest, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Management Solutions,DATA SCIENCE CONSULTANT TORONTO,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+DataVisor,Senior Software Engineer - Canada,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+TD,Machine Learning Engineer (Layer 6)- EN,"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,True
+Braintrust,Fullstack Engineer (Part-time) [Remote],"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Fuze HR Solutions,Software Engineer,"Peterborough, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+AbCellera,Senior Data Scientist - Functional Biology,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Braintrust,Fullstack Engineer (Part-time) [Remote],"Edmonton, Alberta, Canada",Mid-Senior level,False,False,False,True,False,False,False
+TechInsights,Software Developer,"Ottawa, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Safe Software,Software Engineer in Test,"Surrey, British Columbia, Canada",Entry level,True,True,False,True,True,False,False
+Compunnel Inc.,DevOps CICD Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Paul's Transport,Full Stack Developer,"Mississauga, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+CenterLine (Windsor) Limited,Computer Programmer/Analyst (Machine Learning Data Analyst),"LaSalle, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+SkyWatch,Solutions Engineer,"Kitchener, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Konrad Group,Mobile Developer (Entry Level),"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+GIRO,"Developer, Custom Solutions","Montréal-Ouest, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Virtusa,Informatica IDQ Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+PiinPoint,Full-Stack Developer,"Kitchener, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Lockheed Martin,Software Engineer,"King, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+The Accurate,DATA PLATFORM ENGINEER,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Canopy One Solutions Inc,Dat Engineer,"Montreal, Quebec, Canada",Contract,False,True,False,False,True,True,False
+BLANKSLATE Partners,Backend Developer - Shop This City,"Vancouver, British Columbia, Canada",Associate,False,False,False,False,False,False,False
+Fairstone Bank,Junior Full Stack Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+Konrad Group,Mobile Developer (Entry Level),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+Diverse Lynx,Software Development Engineer Test,"Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Aardvark Swift Recruitment,Engine Programmer (CA Remote),"Toronto, Ontario, Canada",Associate,False,False,False,False,False,False,False
+InVision Staffing Services Inc.,PLC Programmer,"Cambridge, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+BCJobs,RES O 27R - Data Scientist (BC Public Service),"Abbotsford, British Columbia, Canada",Entry level,False,False,False,True,False,False,True
+Baycrest Health Sciences,Biostatistician,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Ford Motor Company,Test Automation Developer,"Waterloo, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Air Tek Inc,Site Reliability Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+LogiSense,Software Developer,"Cambridge, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Intero Integrity,Software Engineer DataTel,"Toronto, Ontario, Canada",Associate,True,False,False,False,False,False,False
+"Reddit, Inc.","Staff Software Engineer, Machine Learning (Prediction)","British Columbia, Canada",Not Applicable,False,False,False,False,False,False,True
+Hunter Bond,"DevOps Engineer - Elite FinTech - $90,000-$130,000 CAD","Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist - Chemistry,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Firmex,DevOps Engineer (Remote),"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,False
+Diverse Lynx,Tableau Developer fully remote,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,True,False,False
+Braintrust,Fullstack Engineer (Part-time) [Remote],"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,False
+BeachHead,Python Developer/Java to Python Migration,"Mississauga, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Braintrust,Fullstack Engineer (Part-time) [Remote],"Montreal, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Willowglen Systems,Software Engineer - Product Development,"Victoria, British Columbia, Canada",Entry level,True,True,False,True,False,False,False
+Experfy,Data Devops Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Binance.US,Senior Decision Scientist,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Aviya Aerospace Systems,System Engineer (New Graduate),"Longueuil, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+Genetec,Software Developer / Développeur logiciel - Computer Vision,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,True
+CenterLine (Windsor) Limited,Computer Programmer/Analyst (Web Developer),"LaSalle, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Multimatic,Controls Software Engineer,"Markham, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Toronto Metropolitan University,Postdoctoral Researcher in Computer Vision,"Greater Toronto Area, Canada",Full-time,False,False,False,False,False,False,True
+Zortech Solutions,SDET/AQA Engineer,"Calgary, Alberta, Canada",Entry level,True,False,False,True,False,False,False
+"Alexion Pharmaceuticals, Inc.",Senior Clinical Data Scientist II,"Mississauga, Ontario, Canada",Not Applicable,False,True,True,True,True,True,False
+WORKLAND,Junior Frontend Developer - Workland,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Air Canada,Research Scientist - Operations Research and Optimization,"Dorval, Quebec, Canada",Mid-Senior level,True,True,False,True,False,False,True
+Meda Agency Inc.,Software Developer - Application Security,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Zobility,Battery Software Engineer,"Windsor, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Pathcore,Software Engineer,Canada,Associate,True,True,False,False,False,False,False
+Huawei,软件工程师,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+SLB,Process Simulation Software Developer,"Calgary, Alberta, Canada",Not Applicable,True,False,False,False,False,False,True
+AddSource,Big Data Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Canonical,Software Engineer - Python and K8s,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,False
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist/Engineer,"Chalk River, Ontario, Canada",Not Applicable,True,False,False,True,False,False,True
+Specialisterne Danmark,Test Data Engineer- Neurodiversity Hiring Initiative,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Providence Digital Innovation Group,"Sr. Software Engineer, Machine Learning (NLU, LLM)","Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+UKG,Lead Python Developer (AI Applications),"Montreal, Quebec, Canada",Not Applicable,True,True,False,True,False,False,True
+Huntel Global,Application Engineer,"Markham, Ontario, Canada",Associate,False,True,False,True,False,False,False
+"Planview, Inc.",Sr. Machine Learning Operations Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Emerson,Agile Engineer (Remote),"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+A Thinking Ape,Software Developer - Intermediate,"Vancouver, British Columbia, Canada",Entry level,True,False,False,False,False,False,False
+Trolley,QA Automation Engineer,"Halifax, Nova Scotia, Canada",Not Applicable,False,True,False,True,False,False,False
+Evertz,Software Design Engineer (Markham),"Markham, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+VLink Inc,Software Engineer In Test,"Halifax, Nova Scotia, Canada",Contract,False,False,False,False,False,False,False
+Ford Motor Company,Application Software Developer,"Ottawa, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Evertz,Product Verification Engineer – AV Systems,"Burlington, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+UKG,Senior Python Developer (AI Applications),"Montreal, Quebec, Canada",Not Applicable,True,True,False,True,False,False,True
+AbCellera,Research Scientist – Molecular Design & Engineering,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+Stacktics,Site Reliability Engineer,"Toronto, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+Eigen Development Ltd.,"Jr. Software Developer - Dartmouth, NS","Dartmouth, Nova Scotia, Canada",Entry level,False,True,False,True,False,False,False
+MACRO,Software Engineer,"Waterloo, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Canadian Tire Corporation,"Senior Developer, Test Automation - Canadian Tire Corporation","Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+J&M Group,Lab Engineer,"Brampton, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Adecco,Now Hiring Statisticians!,"Cantley, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Adecco,Now Hiring Statisticians!,"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Adecco,Now Hiring Statisticians!,"Orleans, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Adecco,Now Hiring Statisticians!,"Kemptville, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Nightfall AI,Frontend Engineer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+Chartered Professional Accountants of Canada (CPA Canada),Test Engineer,"Toronto, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Willowglen Systems,Software Engineer - Product Development,"Calgary, Alberta, Canada",Entry level,True,True,False,True,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Québec, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Cytel,Principal Statistical Programmer,Canada,Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,Software Development Engineer Test,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,True
+Averna,Software Developer Labview (English version),"Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Evertz,Internal App Developer,"Burlington, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Aversan Inc.,Software Developer - Junior,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Canada Post / Postes Canada,Scientifique de données,"Ottawa, Ontario, Canada",Entry level,False,True,False,True,True,False,False
+Precision Medicine Group,"Associate Research Scientist, Economic Modeling","Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Loam Bio,Geospatial Statistician,"Calgary, Alberta, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Magna International,Applications Engineer,"Woodbridge, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Virtusa,KDB Developer,"Mississauga, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Acceler8 Talent,System Software Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+ProMach,Applications Engineer,"Hamilton, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Canonical,Software Engineer - Python and K8s,"Calgary, Alberta, Canada",Entry level,True,False,False,True,False,False,False
+Formations,Front-end Software Engineer /React Web Developer (Hybrid - Vancouver BC Canada),"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+LMI Technologies,Software Developer (Sensor Application),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+Ford Motor Company,Software Development Engineer,"Ottawa, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Synechron,MEMSQL Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Levio,Développeur.euse Python,"Québec, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Fingerprint for Success (F4S),Expression of Interest: Backend Engineer,Canada,Entry level,False,False,False,True,False,False,False
+Canonical,Software Engineer - Python and K8s,"Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,False
+Wawanesa Insurance,Software Engineer,Canada,Entry level,True,True,False,True,False,False,True
+Inacre Conseil inc,Programmeur Vision Artificielle,"Shawinigan, Quebec, Canada",Not Applicable,False,True,False,False,False,False,False
+Eidos-Montréal,Principal AI Programmer,"Montréal-Ouest, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Emerson,Agile Engineer (Remote),"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+Canonical,Software Engineer - Python and K8s,"Victoria, British Columbia, Canada",Entry level,True,False,False,True,False,False,False
+Busbud,Software Developer - Web Experience,"Montreal, Quebec, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Diverse Lynx,Insfrastructure Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Fortinet,New Grad Jobs 2023,"Ottawa, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+SUSE,Software Engineer,"Manitoba, Canada",Not Applicable,False,False,False,True,False,False,False
+Lynx Air,Data Engineer,"Calgary, Alberta, Canada",Entry level,True,True,False,True,True,True,False
+Diverse Lynx,Big Data Engineer,"Waterloo, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Red Thread Innovations,Software Engineer (Remote),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Epsilon Solutions Ltd.,ETL Python Developer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Diverse Lynx,Big Data Engineer,"Waterloo, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Wawanesa Insurance,Software Engineer,Canada,Entry level,True,True,False,True,False,False,True
+Red Thread Innovations,Software Engineer (Remote),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Epsilon Solutions Ltd.,QA Automation Engineer,"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+TD,Sr. Machine Learning Engineer - ML Engine(Layer 6),"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,True
+Kinaxis,"Staff Algorithm Developer, Optimization","Hamilton, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+ML6 Search + Talent Advisory,Software Integration Engineer,"Mississauga, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Avid Placement,Sr. Python Developer,"Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Supermojo,NodeJS developer | FinTech,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Apptoza Inc.,Site Reliability Engineer,"Toronto, Ontario, Canada",Contract,True,False,False,False,False,False,False
+Process Automation Solutions,Applications Engineering,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+Evolving Web,Front-end Developer,"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Dawn Staffing Solutions Inc,CMM Programmer,"Windsor, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Embedded Talent,GCP Application Developer,Canada,Mid-Senior level,True,True,False,False,False,False,True
+Dropbox,"Principal Machine Learning Engineer, New Initiatives",Canada,Not Applicable,True,False,False,True,False,False,True
+Kinaxis,"Staff Algorithm Developer, Optimization","Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Primate Labs Inc.,Software Developer,Canada,Full-time,True,False,False,False,False,False,False
+Cytel,Senior Statistical Programmer,Canada,Mid-Senior level,False,False,False,True,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Greater Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Metanode Labs Inc.,Django Full-Stack Engineer,Canada,Contract,True,True,False,False,False,False,False
+Peak Power Inc,Full Stack Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+NDAX,React Front End Developer,"Calgary, Alberta, Canada",Entry level,False,False,False,False,False,False,False
+PathFactory,Integration Software Engineer,Canada,Mid-Senior level,False,False,False,False,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Gasket Games Corp.,Gameplay Animation Software Engineer (All Levels),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+TD,Machine Learning Engineer (Layer 6),"Toronto, Ontario, Canada",Not Applicable,True,False,False,False,False,False,True
+PiinPoint,Full-Stack Developer,"Kitchener, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Randstad Canada,Senior QA Engineer - Data/PowerBI,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,True,False
+Procom,Splunk/Python Developer,"Brampton, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Halifax, Nova Scotia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Snowed In Studios Inc.,Game Engine Programmer,"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Brass Lion Entertainment,Build Programmer,"Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,False
+1Password,Solutions Engineer,Greater Montreal Metropolitan Area,Not Applicable,False,False,False,False,False,False,False
+LAAgencia,Senior Software Developer (Python/React),"Alberta, Canada",Not Applicable,True,True,False,True,False,False,False
+Mixonset,AI DJ Web API Developer,"Montreal, Quebec, Canada",Full-time,False,False,False,False,False,False,False
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Clay - Home Builder Software,Cloud Engineer,"Toronto, Ontario, Canada",Full-time,False,True,False,True,False,False,False
+Seven Hills Group Technologies Inc.,UI React Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Kinaxis,"Staff Algorithm Developer, Optimization","Greater Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+BC Housing,Application Developer,"Burnaby, British Columbia, Canada",Entry level,False,False,False,True,False,False,False
+White Bay,"Game Performance Engineer | AAA Gaming | Remote | $160,000 - $200,000",Canada,Mid-Senior level,False,False,False,False,False,False,False
+Ansys,R&D Engineer II - Combustion Software Development,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,False
+Huntel Global,Application Engineer,"Markham, Ontario, Canada",Associate,False,True,False,True,False,False,False
+Binance,Senior Machine Learning Engineer (Anomaly Detection),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+CS GROUP - Canada,Experienced Python DevOps,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,False
+ProMach,Applications Engineer,"Hamilton, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Timbre Games,Software Engineer - Unreal Tools,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Evolving Web,Front-end Developer,"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Cummins Inc.,Electrolyzer Applications Engineer,"Mississauga, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Cummins Inc.,Electrolyzer Applications Engineer,"Mississauga, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Blastworks Inc.,Quality Assurance Automation Engineer,"Victoria, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+LOGO.com | Free Logo Maker,Backend Developer - LOGO.com,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Prelude,Adversarial Security Engineer,"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+WORKLAND,Junior Frontend Developer - Workland,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Randstad Canada,Software Developer I,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+DarkVision Technologies Inc.,Research Scientist,"North Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Loblaw Companies Limited,Site Reliability Engineer I,"Brampton, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Auvik,Software Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Sony Pictures Imageworks,Software Engineer - Hydra,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Binance,Senior Machine Learning Engineer (Anomaly Detection),"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Welbilt Inc.,Software Engineer I,"Mississauga, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Global Pharma Tek,CYSSC-23-0038: x2 Software Developer - Junior Software Developer Junior,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Axelon Services Corporation,React Developer,"Mississauga, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+TalentLab,Computer Vision Engineer,"Markham, Ontario, Canada",Entry level,True,False,False,True,False,False,True
+"Alexion Pharmaceuticals, Inc.",Senior Clinical Data Scientist II,"Mississauga, Ontario, Canada",Not Applicable,False,True,True,True,True,True,False
+Experfy,Data Devops Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Trolley,QA Automation Engineer,"Halifax, Nova Scotia, Canada",Not Applicable,False,True,False,True,False,False,False
+"Ooma, Inc.","Software Developer, Ruby on Rails","Vancouver, British Columbia, Canada",Entry level,False,True,False,True,False,False,False
+Autodesk,Senior Software Engineer (Python & React),"Greater Toronto Area, Canada",Not Applicable,False,False,False,True,False,False,False
+ISAAC Instruments,Développeur(euse) intélligence artificielle (IA),"Duhamel-Ouest, Quebec, Canada",Associate,True,True,False,False,False,False,False
+CMiC,Software Build/Release Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Ritual.co,Backend Engineer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+ResMed,Specialist Application Test Engineer (m/w/d),"Reford 379, Saskatchewan, Canada",Entry level,False,False,False,True,False,False,False
+D2L,Software Developer,"Kitchener, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Rodeo FX,Pipeline Developer,"Vancouver, British Columbia, Canada",Not Applicable,True,False,False,True,False,False,False
+Keep Technologies,Founding Backend Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+PointClickCare,Principal Software Engineer,"Mississauga, Ontario, Canada",Mid-Senior level,True,True,False,True,False,True,False
+CS GROUP - Canada,System Software Design Engineer,"Montréal-Ouest, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Stripe,"Software Engineer, Growth Data Engineering","Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Welbilt Inc.,Software Engineer I,"Mississauga, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+TechInsights,AWS DevSecOps Engineer,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+IDC Technologies Solutions Pvt Ltd,Site Reliability Engineer - Cloud,"Toronto, Ontario, Canada",Contract,True,False,False,False,False,False,False
+University of Manitoba,Postdoctoral Researcher,"Winnipeg, Manitoba, Canada",Full-time,False,False,False,False,False,False,False
+Networkers - Technology Recruitment,UI Developer,Greater Montreal Metropolitan Area,Mid-Senior level,False,False,False,True,False,False,False
+Marketers on Demand,Digital Data Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+AbCellera,Research Scientist - Cell Biology & Assay Development,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Aardvark Swift Recruitment,Tools Programmer (Hybrid),"Toronto, Ontario, Canada",Associate,True,False,False,True,False,False,False
+IPFusion,Software Developer (Mid-Level) (Remote/Hybrid),"Saskatoon, Saskatchewan, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Levvel Inc.,UI/UX Developer,"Calgary, Alberta, Canada",Associate,False,False,False,True,False,False,False
+AbCellera,Research Scientist - In Vivo Pharmacology,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+Heart & Stroke,Software Developer - Email Developer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+MCA,RAMS Engineer (H/F),"Montreal, Quebec, Canada",Associate,False,False,False,False,False,False,False
+SPECTRAFORCE,Engineer III,"Edmonton, Alberta, Canada",Entry level,False,False,False,True,False,False,False
+Arctic Wolf,Developer,Canada,Entry level,True,False,False,True,False,False,False
+Canonical,Software Engineer - Python/Golang - Kubernetes,"Vancouver, British Columbia, Canada",Entry level,True,False,False,False,False,False,False
+Ubisoft Saguenay,Tools Programmer (Mid.-Senior),"Saguenay, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Validus Risk Management,Financial Software Engineer,"Toronto, Ontario, Canada",Associate,True,True,False,False,False,False,False
+IQ Hunt Ltd.,Detection Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Alstom,Test Engineer,"Kingston, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Opla Energy,Intermediate Full Stack Developer,"Calgary, Alberta, Canada",Mid-Senior level,True,False,False,True,False,False,False
+WellnessLiving,React Developer,"Richmond Hill, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Dentsu Creative,Interactive Developer,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Hire Digital,"Webflow Developer (Freelance, Remote)","Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Jarvis Consulting Group,Junior Software Engineer (fully bilingual in French and English),"Montreal, Quebec, Canada",Entry level,True,True,False,False,False,False,False
+Canadian Nuclear Laboratories,Research & Development (R&D) Scientist/Physicist,"Chalk River, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Agnostiq,Software Engineer - Full Stack (Backend-Cloud Focused Python Engineer),"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Diverse Lynx,Bigdata Developer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Diverse Lynx,Bigdata developer,"Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,False
+Diverse Lynx,QE Automation ( SDET ),"Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Certn,Intermediate SDET (Contract),Canada,Entry level,True,False,False,False,False,False,False
+Think Research,Software Security Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Relay,"Software Engineer, Risk","Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+JDRF Electromag Engineering Inc.,Mobile Developer (Onsite),"Mississauga, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Hanon Systems,Software Engineer,"Vaughan, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Fortinet,Junior Software QA Engineer,"Ottawa, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Diverse Lynx,Data Engineer,"Mississauga, Ontario, Canada",Entry level,True,True,False,False,True,False,False
+Evertz,Software Development Engineer,"Burlington, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+TD,Senior Machine Learning Engineer (Layer 6),"Toronto, Ontario, Canada",Not Applicable,True,False,False,True,False,False,True
+Binance.US,Big Data Application Engineer,"Vancouver, British Columbia, Canada",Entry level,True,True,False,False,False,False,False
+Tesla,Senior Vision Systems Engineer,"Markham, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+Swifteam,DevOps Engineer (Part-Time Ok),Canada,Mid-Senior level,True,False,False,False,False,False,False
+GoTo,"Software Developer in Test, SDET","Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Electronic Arts (EA),Software Engineer in Test,"Vancouver, British Columbia, Canada",Not Applicable,True,False,False,True,False,False,False
+Centre universitaire de santé McGill | McGill University Health Centre,Software Developer (Data Engineering) (Research Institute),"Montreal, Quebec, Canada",Entry level,True,True,False,True,False,False,True
+Magna International,"ROBOT (ROLL HEMMING) PROGRAMMER, JR.","Brampton, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Travelers Canada,"Software Engineer (MERN, Okta)","Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Diverse Lynx,Reactjs Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+The Accurate,DATA PLATFORM ENGINEER,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+QA Consultants,Performance Test Engineer,"Calgary, Alberta, Canada",Associate,True,True,False,False,False,False,False
+Braintrust,Web Developer - Next JS [Remote],"Edmonton, Alberta, Canada",Entry level,False,False,False,False,False,False,False
+Motion Recruitment,"Software Engineer (Backend or Fullstack, 100% Remote in Canada)","Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Bronswerk Group,Application Engineer Project,"Brossard, Quebec, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Badal.io,Platform Engineer,"Toronto, Ontario, Canada",Not Applicable,True,True,False,False,False,False,False
+Crisp Media Inc.,Full Stack Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Ample Insight,Front End and Full Stack Developer,"Toronto, Ontario, Canada",Associate,False,False,False,False,False,False,False
+Electronic Arts (EA),Software Engineer in Test,"Vancouver, British Columbia, Canada",Not Applicable,True,False,False,True,False,False,False
+HCLTech,CIAM developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Victoria, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,False
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Québec, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+Fingerprint for Success (F4S),Expression of Interest: Computer Programmer,Canada,Entry level,False,False,False,True,False,False,False
+Global Pharma Tek,PEP - Continuous Improvement - Programmer/Developer Software Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Global Pharma Tek,PEP - Continuous Improvement - Programmer/Developer Software Developer,"Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Evertz,"Intermediate Software Engineer, Backend","Burlington, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Myant Inc.,Embedded Software Engineer,"Etobicoke, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Zortech Solutions,"Sr Full stack Developer (React, Python, GCP)-Canada","Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Co-op Engineer,"Vancouver, British Columbia, Canada",Internship,False,False,False,False,False,False,True
+Kimberly-Clark,Reliability Engineer,"Huntsville, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Rohde & Schwarz,Application Engineer- Ottawa,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+NamSys Inc.,Software Developer - Remote,"Toronto, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Moody's Corporation,Software Engineer - 100% Remote - US and Canada,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Evertz,Intermediate Software Design Engineer,"Burlington, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+AbCellera,Research Scientist – Protein Engineering – Mammalian Expression Libraries,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+Zortech Solutions,"Sr Full stack Developer (React, Python, GCP)-Canada","Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Co-op Engineer,"Vancouver, British Columbia, Canada",Internship,False,False,False,False,False,False,True
+Kimberly-Clark,Reliability Engineer,"Huntsville, Ontario, Canada",Not Applicable,False,False,False,True,False,False,False
+Rohde & Schwarz,Application Engineer- Ottawa,"Ottawa, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+NamSys Inc.,Software Developer - Remote,"Toronto, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+Flashpoint,Software Engineer II,"Victoria, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+Moody's Corporation,Software Engineer - 100% Remote - US and Canada,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Evertz,Intermediate Software Design Engineer,"Burlington, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+AbCellera,Research Scientist – Protein Engineering – Mammalian Expression Libraries,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,True
+ISP Solar,Software Developer,"Montreal, Quebec, Canada",Full-time,False,True,False,False,False,False,False
+Experfy,Full-stack developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+STACK IT Recruitment Inc.,Front End Developer,"North York, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Timbre Games,Software Engineer - Unreal Tools,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Atos,WODM Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Braintrust,Web Developer - Next JS [Remote],"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Panasonic North America,Lead Software Developer,"Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+First Derivative,KDB Developer ,"Toronto, Ontario, Canada",Not Applicable,True,False,False,True,False,False,False
+Randstad Canada,Reliability Engineer,"Oakville, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Ansys,R&D Engineer II - Combustion Software Development,"Vancouver, British Columbia, Canada",Entry level,True,False,False,True,False,False,False
+Konrad Group,Mobile Developer (Entry Level),"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Diverse Lynx,ISAM Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Opla Energy,Intermediate Full Stack Developer,"Calgary, Alberta, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Fairstone Bank,Junior Full Stack Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+Software International,Senior Python Engineer,"Markham, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+PointClickCare,Principal Software Engineer,"Mississauga, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,False
+AbCellera,Senior Data Scientist - Functional Biology,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Dropbox,"Staff Machine Learning Software Engineer, New Initiatives","Vancouver, British Columbia, Canada",Not Applicable,True,False,False,False,False,False,True
+Art+Logic,Remote Senior Full Stack Python Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,True,False,False,False
+Cloud Chamber,Animation Programmer,"Montréal-Ouest, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Emonics LLC,AWS Serverless Engineer,"Toronto, Ontario, Canada",Full-time,True,False,False,False,False,False,False
+NexGedia Enterprise,Software Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Braintrust,Web Developer - Next JS [Remote],"Oakville, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Aspen Technology,Principal Data Scientist,"Montreal, Quebec, Canada",Mid-Senior level,True,False,False,False,False,False,True
+KX,KDB Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,False
+Atimi Software,Full Stack Developer - Java and JavaScript,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Diverse Lynx,QA Python Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Canonical,Software Engineer - Python/Golang - Kubernetes,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Hire Digital,"Webflow Developer (Freelance, Remote)","Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Emerson,Agile Engineer (Remote),"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+McGill University,Software Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+Boxhub,Front End Engineer,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Sanmina,Test Development Engineer,"Ottawa, Ontario, Canada",Entry level,True,False,False,True,False,False,False
+BCJobs,iOS Software Engineer (PressReader),"Richmond, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+JDRF Electromag Engineering Inc.,Mobile Developer (Onsite),"Mississauga, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+BC Mental Health and Substance Use Services,"Clinical Scientist III Research Lead, BC Mental Health and Substance Use Services – Vancouver, BC","Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,False
+EHT Group Ltd.,Senior Software Engineer,"Kitchener, Ontario, Canada",Full-time,False,True,False,False,False,False,False
+Braintrust,Native Ad Mobile Developer - Freelance [Remote],"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Munich Re,Cloud ML Engineer (Sr. Technical Specialist),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Diverse Lynx,React Js Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Ford Motor Company,Software Development Engineer,"Ottawa, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Zobility,HIL Validation Engineer,"Windsor, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Morgan Stanley,Python Developer - Infrastructure Observability Engineering (Hybrid),"Montreal, Quebec, Canada",Not Applicable,True,True,False,False,False,False,False
+CloudOps,Site Reliability Engineer,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+JDRF Electromag Engineering Inc.,Android Developer (Onsite),"Mississauga, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,True
+NetEase Games,Senior AI Programmer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Braintrust,Web Developer - Next JS [Remote],"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Randstad Canada,PLC Programmer,"Windsor, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Evertz,Internal Web Applications Developer,"Burlington, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Tata Consultancy Services,Ingenium Specialist,"Toronto, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+BluWave-ai,Data Engineering Developer,"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+HireMe,Site Reliability Engineer,"Montreal, Quebec, Canada",Contract,True,True,False,False,False,False,False
+Certn,Intermediate SDET,Canada,Entry level,True,False,False,False,False,False,False
+"Huawei Technologies Canada Co., Ltd.",Senior Research Scientist - Reinforcement Learning,"Edmonton, Alberta, Canada",Mid-Senior level,False,False,False,False,False,False,True
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Montreal, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Mississauga, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+Miipe Quality Solutions,Performance Test Engineer,"Toronto, Ontario, Canada",Full-time,False,False,False,False,False,False,False
+Binance.US,QA Engineer,"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+"Thermon, Inc.",Senior Research & Development Engineer,"Oakville, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Actalent,Software Tools Engineer,"Kanata, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+NDAX,Software Security Engineer,"Calgary, Alberta, Canada",Associate,False,False,False,False,False,False,False
+Mindlance,Software Engineer  iValua,"Toronto, Ontario, Canada",Contract,False,True,False,False,False,False,False
+Binance.US,QA Engineer,"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+Emonics LLC,AWS Serverless Engineer,"Toronto, Ontario, Canada",Full-time,True,False,False,False,False,False,False
+Plooto,Senior Software Development Engineer in Test (SDET),"Ottawa, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+TD,Sr. Machine Learning Engineer - ML Engine(Layer 6)- EN,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,True
+Hopper,"(Remote) Senior Backend Developer, Corporate Travel",Canada,Mid-Senior level,True,True,False,True,False,False,True
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Regina, Saskatchewan, Canada",Not Applicable,False,False,False,False,False,False,False
+Hopper,"(Remote) Senior Backend Developer, Corporate Travel",Canada,Mid-Senior level,True,True,False,True,False,False,True
+"Huawei Technologies Canada Co., Ltd.",Intern Researcher - AI Deep Learning,"Edmonton, Alberta, Canada",Internship,False,False,False,True,False,False,False
+Canonical,Software Engineer - Launchpad,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Pocket Worlds,Senior Software Engineer (Python),"Toronto, Ontario, Canada",Not Applicable,True,False,False,True,False,False,False
+Epsilon Solutions Ltd.,IOT Engineer,"Toronto, Ontario, Canada",Associate,False,False,False,False,False,False,False
+Zortech Solutions,React Developer,"Mississauga, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Yakoa,Senior Backend Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,True,True,False,False,False,False,False
+TalentLab,Software Developer,"Montreal, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Experfy,Data Engineer,"Toronto, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+AffinityClick Inc.,Data Engineer,"Ottawa, Ontario, Canada",Entry level,True,False,False,False,False,False,True
+STACK IT Recruitment Inc.,Front End Developer,"North York, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+St-Amour,Application Engineer,"Laval, Quebec, Canada",Not Applicable,False,False,False,True,False,False,False
+OPTEL Group,Backend Software Developer,"Québec, Quebec, Canada",Mid-Senior level,True,False,False,True,False,False,False
+BCJobs,Tools Engineer - Treyarch Vancouver (Equest),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+Braintrust,Backend Engineer - Freelance [Remote],"Ottawa, Ontario, Canada",Mid-Senior level,False,True,False,False,False,False,False
+Zortech Solutions,SDET,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Surf Search,Senior Research Scientist - Toxicology,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Siemens Healthineers,Research Scientist (18 Month Term),"Ottawa, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Konrad Group,Mobile Developer (Entry Level),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+CIeNET Technologies,Android Software Engineer - Automotive Infotainment,"Markham, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Diverse Lynx,QA Engineer - Remote,Canada,Entry level,False,True,False,False,False,False,False
+Qualcomm,Staff Engineer – Machine Learning Software,"Markham, Ontario, Canada",Not Applicable,False,False,False,False,False,False,True
+BCJobs,Software Engineer (Equest),"Vancouver, British Columbia, Canada",Entry level,False,False,False,True,False,False,False
+Finni Health (YC W23),Frontend Software Developer II,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Future Electronics,EDI Developer,Canada,Mid-Senior level,False,True,False,True,False,False,False
+TalentLab,Sr Python Developer (Embedded),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+HexaQuEST Global,SFDC Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+GoTo,Software Developer,"Quebec, Canada",Entry level,False,True,False,False,False,False,False
+Ardent Blue Technologies,Mid Unreal Gameplay Programmer,Canada,Mid-Senior level,False,False,False,True,False,False,False
+Arctic Wolf,"Senior Developer, Observability",Canada,Mid-Senior level,True,True,False,True,False,False,False
+Workday,Senior Software Development Engineer for Machine Learning,"Greater Toronto Area, Canada",Not Applicable,True,False,False,False,False,False,True
+NexGedia Enterprise,Software Developer,"Toronto, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Levio,Développeur.euse IA et robotique,"Québec, Quebec, Canada",Entry level,True,False,False,False,False,False,True
+Evertz,Intermediate Software Design Engineer,"Burlington, Ontario, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Crisp Media Inc.,Full Stack Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,False,False,False,True
+Canada Life,Software Developer,"Toronto, Ontario, Canada",Not Applicable,False,True,False,True,False,False,False
+Global Pharma Tek,PEP - Continuous Improvement - Programmer/Developer Software Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Global Pharma Tek,PEP - Continuous Improvement - Programmer/Developer Software Developer,"Ontario, Canada",Entry level,False,False,False,True,False,False,False
+Atimi Software,Backend Developer - Java,"Vancouver, British Columbia, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Vimerse InfoTech Inc,AWS CLOUD DATA ENGINEER,Canada,Contract,True,False,False,True,False,False,False
+Software International,Full Stack Engineer - iOS,"Mississauga, Ontario, Canada",Contract,False,False,False,False,False,True,False
+Levio,Développeur IA,"Montreal, Quebec, Canada",Entry level,True,False,False,True,False,False,False
+Astek Canada,DevOps Junior (H/F),"Montréal-Ouest, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Workday,Senior Software Development Engineer for Machine Learning,"Vancouver, British Columbia, Canada",Not Applicable,True,False,False,False,False,False,True
+QUANTIC DREAM,Gameplay Programmer,"Montréal-Ouest, Quebec, Canada",Entry level,False,False,False,False,False,False,False
+Planet,"Geospatial Software Engineer, Medium Resolution Pipeline","Alberta, Canada",Entry level,True,False,False,False,False,False,True
+Hypertec Group,Software Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,True,False,False,False
+3bstaffing Pvt Ltd-Domestic Staffing,Scala Developer,"Mississauga, Ontario, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Canonical,Software Engineer - Python/Golang - Kubernetes,"Calgary, Alberta, Canada",Entry level,True,False,False,False,False,False,False
+ADGA Group Consultants Inc.,Intermediate Software Developer,"Ottawa, Ontario, Canada",Mid-Senior level,False,True,False,True,False,False,False
+Thanx,Software Engineer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Braintrust,Backend Engineer - Freelance [Remote],"Calgary, Alberta, Canada",Mid-Senior level,False,True,False,False,False,False,False
+CBI Health,Data Engineer,"Toronto, Ontario, Canada",Entry level,True,True,True,False,False,True,False
+"Huawei Technologies Canada Co., Ltd.",Junior Software Developer - Real-time Operating System,"Ottawa, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Semaphore Solutions,Contract Software Developer,"Victoria, British Columbia, Canada",Not Applicable,True,False,False,False,False,False,False
+GN CORPORATIONS INC.,CMM Programmer,"Airdrie, Alberta, Canada",Associate,False,False,False,False,False,False,False
+CGI,Sr Developer,"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,False
+VendorPM,FrontEnd Engineer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Trine Tech LLC,Sr. SDET,"Vancouver, British Columbia, Canada",Contract,False,False,False,False,False,False,False
+Falcon Smart IT (FalconSmartIT),Big Data Engineer,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Binance,Senior Machine Learning Engineer (Anomaly Detection),"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Western University,Postdoctoral Researcher,"London, Ontario, Canada",Full-time,False,False,False,True,False,False,False
+RPM Technologies (now Broadridge),Junior Software Developer; AUI,"Toronto, Ontario, Canada",Entry level,False,True,False,True,False,False,False
+AMD,PMTS Software Development Eng.,"Waterloo, Ontario, Canada",Mid-Senior level,True,False,False,True,False,False,True
+LMI Technologies,Senior Software Engineer,"Vancouver, British Columbia, Canada",Mid-Senior level,True,False,False,True,False,False,True
+Tiger Analytics,Data Engineer - AWS,"Toronto, Ontario, Canada",Associate,True,True,False,True,False,False,True
+COEX,Candidature spontanée,"Montreal, Quebec, Canada",Not Applicable,False,False,False,False,False,False,False
+Jam Studio,Unity Game Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,True,False,False,False
+Munich Re,Cloud ML Engineer (Sr. Technical Specialist),"Toronto, Ontario, Canada",Mid-Senior level,True,False,False,False,False,False,True
+Compunnel Inc.,Developer,"Toronto, Ontario, Canada",Contract,True,False,False,False,False,True,False
+Contrôles Laurentide / Laurentide Controls,Application Engineer,"Kirkland, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Diverse Lynx,Performance Engineer Intermediate,"Toronto, Ontario, Canada",Entry level,True,True,False,False,False,False,False
+Evertz,Web Application Developer (Intermediate & Sr.),"Burlington, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+Tata Consultancy Services,SAS Developer,"Brampton, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+TD,Associate Engineer II,"Toronto, Ontario, Canada",Not Applicable,False,False,False,False,False,False,False
+AMETEK,Creaform - Scientific Developer (m/f/d),"Lévis, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+EVRAZ North America,Reliability Engineer,"Red Deer, Alberta, Canada",Not Applicable,False,False,False,True,False,False,False
+PressReader,Android Software Engineer,"Richmond, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+GE Power,Probabilistic Risk and Reliability Engineer,"Markham, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+MARSHALL TECHNOLOGIES INC,Lead Performance Engineer - Developer,Canada,Entry level,False,False,False,False,False,False,False
+Robert Half,Software Developer in Test (SDET),"Vancouver, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+J&M Group,React Developer,"Toronto, Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Myplanet,Software Developer (Back End),"Toronto, Ontario, Canada",Entry level,True,True,False,True,False,False,True
+Ubisoft Montréal,Generalist Programmer (Integration Program),"Montreal, Quebec, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Actalent,Test Automation Developer,"Kanata, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+DoubleJump Games,Unreal Engine Game Developer,"Vancouver, British Columbia, Canada",Associate,False,False,False,False,False,False,False
+Brex,"Staff Software Engineer, Machine Learning Platform (Remote)",Canada,Mid-Senior level,True,True,False,False,False,False,False
+Technicolor Creative Studios,Mid Software Developer,"Montreal, Quebec, Canada",Mid-Senior level,True,True,False,False,False,False,False
+ATCS Inc.,Mobile Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+NexGedia Enterprise,Software Developer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Moody's Corporation,Software Engineer - 100% Remote - US and Canada,"Vancouver, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,False
+Avid Placement,REACT Developer,"Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Diverse Lynx,Performance Engineer,"Mississauga, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Kelowna, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,False
+CMiC,Software Engineer | Front-End (Flutter),"Toronto, Ontario, Canada",Associate,False,False,False,True,False,False,False
+PRECISIONheor,Research Statistician,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Procom,Splunk/Python Developer,"Brampton, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Technicolor Creative Studios,Mid Software Developer,"Montreal, Quebec, Canada",Mid-Senior level,True,True,False,False,False,False,False
+Actalent,Test Automation Developer,"Kanata, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+DoubleJump Games,Unreal Engine Game Developer,"Vancouver, British Columbia, Canada",Associate,False,False,False,False,False,False,False
+Procom,Splunk/Python Developer,"Brampton, Ontario, Canada",Entry level,True,False,False,False,False,False,False
+Brex,"Staff Software Engineer, Machine Learning Platform (Remote)",Canada,Mid-Senior level,True,True,False,False,False,False,False
+ATCS Inc.,Mobile Developer,"Toronto, Ontario, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Diverse Lynx,JavaScript Developer (Job ID - 5106-1),"Burnaby, British Columbia, Canada",Entry level,False,False,False,False,False,False,False
+NexGedia Enterprise,Software Developer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+Moody's Corporation,Software Engineer - 100% Remote - US and Canada,"Vancouver, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,False
+Avid Placement,REACT Developer,"Ontario, Canada",Entry level,False,False,False,False,False,False,False
+Bluelight Consulting | DevOps & Software Development,"React Engineer - Remote, Full-Time","Kelowna, British Columbia, Canada",Not Applicable,False,False,False,False,False,False,False
+CMiC,Software Engineer | Front-End (Flutter),"Toronto, Ontario, Canada",Associate,False,False,False,True,False,False,False
+PRECISIONheor,Research Statistician,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Explorance,Full Stack Developer,"Montreal, Quebec, Canada",Entry level,False,True,False,False,False,False,False
+BeyondTrust,Software Development Engineer,"Halifax, Nova Scotia, Canada",Entry level,False,False,False,True,False,False,False
+Prospera Credit Union,Test Engineer II,"Vancouver, British Columbia, Canada",Entry level,False,True,False,False,False,False,False
+Braintrust,Web Developer - Next JS [Remote],"Edmonton, Alberta, Canada",Entry level,False,False,False,False,False,False,False
+Executive Talent on Demand,Software Developer,"Montreal, Quebec, Canada",Mid-Senior level,False,True,False,False,False,False,False
+TalentLab,Software Engineer in Test / Développeur Logiciel en Test,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Avid,Web & Mobile Platform Software QA Engineer,"Montreal, Quebec, Canada",Entry level,True,False,False,False,False,False,False
+Zortech Solutions,Node JS Developer,"Toronto, Ontario, Canada",Entry level,False,True,False,False,False,False,False
+CloudQ,Software Engineering Specialist,"Brampton, Ontario, Canada",Entry level,True,True,False,True,False,False,False
+DoubleJump Games,Unity Developer,"Vancouver, British Columbia, Canada",Mid-Senior level,False,False,False,False,False,False,False
+Genetec,Software Developer / Développeur logiciel - MS Power Platform,"Montreal, Quebec, Canada",Entry level,False,False,False,True,False,False,False
+Jubilant Radiopharma,"Ingénieur logiciel, Instruments médicaux","Kirkland, Quebec, Canada",Mid-Senior level,False,True,False,True,False,False,False
