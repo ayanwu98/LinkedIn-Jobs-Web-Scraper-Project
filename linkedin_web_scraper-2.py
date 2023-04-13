@@ -89,3 +89,4 @@ for page in range(40):
 
   webscrapping_one_page(url+str(page*25), headers)
 
+# As a result this code will yield a csv file named linkedinwebscraper.csv which we will be using for data cleaning. 
