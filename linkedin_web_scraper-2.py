@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
-''' In this project, we are creating a web scraping tool to collect information about Data Science job postings on Linkedin.
+''' 
+    In this project, we are creating a web scraping tool to collect information about Data Science job postings on Linkedin.
     We aim to extract information about company names, job titles, location, seniority levels. and skills required.
     We will be collecting this information from 1000 jobs.
 '''
